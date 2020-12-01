@@ -1,4 +1,4 @@
-module github.com/krpatel19/memory_used_percent/memory_used_percent
+module github.com/krpatel19/memory_used_percent
 
 go 1.14
 
